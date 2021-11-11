@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Golang and Algorithm
 - 📫 How to reach me: c3663916@gmail.com
 
-[![finger's GitHub stats](https://github-readme-stats.vercel.app/api?username=finger2011)](https://github.com/anuraghazra/github-readme-stats)
+![finger's GitHub stats](https://github-readme-stats.vercel.app/api?username=finger2011&show_icons=true&theme=radical)
 
 <!--
 **finger2011/finger2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
